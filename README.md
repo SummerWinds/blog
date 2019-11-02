@@ -1,2 +1,3 @@
 # blog
-My blogs
+
+My blogs based on Hexo-theme-next!
